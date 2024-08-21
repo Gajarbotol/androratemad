@@ -1,0 +1,14 @@
+{
+  "name": "gajar-botol",
+  "version": "1.0.0",
+  "description": "A bot that sends messages to multiple chat IDs using the Telegram Bot API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.57.0"  // Replace with the actual version you need
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
